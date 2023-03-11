@@ -20,6 +20,6 @@ The Great Soul,always u r in my heart Boss.
 * JDK 11+
 * Android SDK
   - Android NDK
-*gradel build`
+*gradle build`
 
 
